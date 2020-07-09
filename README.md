@@ -1,5 +1,4 @@
-// TODO
-
+![Benny Hill doing the Benny Hill face](benny-hill.gif)
 
 <!--
 **aarongarciah/aarongarciah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
